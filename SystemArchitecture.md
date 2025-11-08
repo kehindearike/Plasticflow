@@ -62,10 +62,12 @@ The system follows a **three-tier architecture**:
 
 ---
 
-##  Why This Approach Works for Mobile
-- Scalable architecture for multiple users.  
-- Secure authentication with JWT and encrypted storage on device.  
-- API-based backend allows multiple clients (web or mobile) to use the same server.  
-- Easy to maintain and extend with new features.  
+## ##  Technical Feasibility
+This architecture is technically feasible because:
+- It supports scalability for a growing user base.
+- It provides secure authentication (JWT) and device-level encryption.
+- The API-based backend allows both web and mobile clients to use the same infrastructure.
+- It is easy to maintain and extend as new features are added.
+  
 
 ---
