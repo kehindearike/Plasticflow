@@ -6,7 +6,7 @@ Plasticflow is a digital recycling platform that connects individuals, waste col
 
 ## Overview
 Plasticflow helps solve the growing issue of plastic waste pollution in Nigeria by providing an easy way for people to recycle.  
-Users can request pickups for their plastic waste, get matched with verified collectors, and ensure plastics are properly delivered to recycling centers — all through a single mobile app.
+Users can request pickups for their plastic waste, get matched with verified collectors, and ensure plastics are properly delivered to recycling centers, all through a single mobile app.
 
 ---
 
