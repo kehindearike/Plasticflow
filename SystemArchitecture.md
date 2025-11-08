@@ -71,3 +71,4 @@ This architecture is technically feasible because:
   
 
 ---
+![Plasticflow Wireframe](assets/plasticflow.png)
